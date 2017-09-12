@@ -142,7 +142,7 @@ Einfache, %color%e details sind auf jeder Seite des metallischen Rumpfes angebra
     <string>Kurier</string>
   </MADLIB_SHIP_TYPES>
   <SHIP_COLOR_NAMES>
-    <string>orange</string>
+    <string>orang</string>
     <string>rot</string>
     <string>blau</string>
     <string>violett</string>
@@ -158,7 +158,7 @@ Einfache, %color%e details sind auf jeder Seite des metallischen Rumpfes angebra
   <Remove_player>Spieler entfernen</Remove_player>
   <Change_ship_name>Schiffnamen ändern</Change_ship_name>
   <Change_ship_type>Schiffstyp ändern</Change_ship_type>
-  <Add_an_orbital_player>Orbit Spieler hinzufügen</Add_an_orbital_player>
+  <Add_an_orbital_player>Orb Spieler hinzufügen</Add_an_orbital_player>
   <Press_to_accept_name>(((START)) wenn bereit)</Press_to_accept_name>
   <Very_well_Shutting_down>Nun gut, Fahre herunter.</Very_well_Shutting_down>
   <I_feel_fine>Es geht mir gut.</I_feel_fine>
@@ -166,13 +166,13 @@ Einfache, %color%e details sind auf jeder Seite des metallischen Rumpfes angebra
   <No_thanks>Nein danke.</No_thanks>
   <Got_it>Alles klar.</Got_it>
   <Tell_me_more>Erzähl mir mehr.</Tell_me_more>
-  <TUTORIAL_SOMETHING_IS_WRONG>Entschuldigung für das wecken Sir, aber irgendetwas ist seltsam: Wir scheinen schneller Treibstoff zu verlieren als meine Kalkulationen dies ergeben.</TUTORIAL_SOMETHING_IS_WRONG>
-  <TUTORIAL_SOMETHING_IS_WRONG_2>Ich have uns in den Orbit einen eisigen Zwergplaneten befördert. Während ich ein paar Diagnosen an den Schiffssystemen vornehme müssen wir irgendwoher mehr Treibstoff ergattern.</TUTORIAL_SOMETHING_IS_WRONG_2>
-  <TUTORIAL_SCHEMATICS>Dies sieht aus wie ein Design für ein Alien-Schiff. Faszinierend...
+  <TUTORIAL_SOMETHING_IS_WRONG>Entschuldigung für das wecken Sir, aber irgend etwas ist seltsam: Wir scheinen schneller Treibstoff zu verlieren als meine Kalkulationen dies ergeben.</TUTORIAL_SOMETHING_IS_WRONG>
+  <TUTORIAL_SOMETHING_IS_WRONG_2>Ich have uns in den Orbit eines eisigen Zwergplaneten befördert. Während ich ein paar Diagnosen an den Schiffssystemen vornehme müssen wir von irgendwoher mehr Treibstoff ergattern.</TUTORIAL_SOMETHING_IS_WRONG_2>
+  <TUTORIAL_SCHEMATICS>Dies sieht aus wie ein Design für ein Ausserirdisches Raumschiff. Faszinierend...
 
 Wir sollten definitiv später einen genaueren Blick riskieren, doch zunächst benötigen wir dringendst Treibstoff.</TUTORIAL_SCHEMATICS>
   <TUTORIAL_FUEL>Wenigstens können wir den Treibstoff den es an Bord hatte bergen.</TUTORIAL_FUEL>
-  <MYSTERIOUS_FORCE_EXPLANATION>Kapitän, ich habe die Ursache unseres Treibstoff mangels herausfinden können! Eine Anomalie innerhalb des ZZ-Omega-9 Sector krümmt den Raum und erzeugt einen konstanten Widerstandseffekt. Wir werden mindestens 3 Einheiten Treibstoff benötigen um von einem System in das nächste zu springen, und unser Tank ist beinahe leer.</MYSTERIOUS_FORCE_EXPLANATION>
+  <MYSTERIOUS_FORCE_EXPLANATION>Kapitän, ich habe die Ursache unseres Treibstoffmangels herausfinden können! Eine Anomalie innerhalb des ZZ-Omega-9 Sector krümmt den Raum und erzeugt einen konstanten Widerstandseffekt. Wir werden mindestens 3 Einheiten Treibstoff benötigen um von einem System in das nächste zu springen, und unser Tank ist beinahe leer.</MYSTERIOUS_FORCE_EXPLANATION>
   <MYSTERIOUS_FORCE_EXPLANATION_2>Wenn wir mit unserer Mission erfolgt haben wollen müssen wir an jedem Planeten den wir finden stoppen und mindestens 3 Einheiten Treibstoff auftreiben.</MYSTERIOUS_FORCE_EXPLANATION_2>
   <APPROACH_MYSTERIOUS_SOURCE>Wir sind angekommen, Kapitän!
 
@@ -208,9 +208,9 @@ Kurs gesetz in the tiefen Weltraum und raus aus dem ZZ-Omega-9 sector. Machen Si
   <Inventory_Slash_Menu>Inventar/Menü</Inventory_Slash_Menu>
   <Equipment>Ausrüstung</Equipment>
   <Inventory>Inventar</Inventory>
-  <Upgrade>Aufrüsten</Upgrade>
-  <Save_and_Quit>Speichern &amp; Beenden</Save_and_Quit>
-  <Settings>Einstellungen</Settings>
+  <Upgrade>Aufwerten</Upgrade>
+  <Save_and_Quit>Speichern</Save_and_Quit>
+  <Settings>Einstellung</Settings>
   <Sound_Volume>Effektlautstärke</Sound_Volume>
   <Music_Volume>Musiklautstärke</Music_Volume>
   <Vibrate_Controller>Gamepad Vibration</Vibrate_Controller>
@@ -224,8 +224,8 @@ Kurs gesetz in the tiefen Weltraum und raus aus dem ZZ-Omega-9 sector. Machen Si
   <Upgrade_points_description_1>Macht was es sagt.</Upgrade_points_description_1>
   <Upgrade_points_description_2>Sagt was es tut.</Upgrade_points_description_2>
   <X_Points>%points% Punkte</X_Points>
-  <Second_Weapon_Slot>Sekundärer Waffen-Slot</Second_Weapon_Slot>
-  <Third_Weapon_Slot>Tertiärer Waffen-Slot</Third_Weapon_Slot>
+  <Second_Weapon_Slot>Sekundäre Waffe</Second_Weapon_Slot>
+  <Third_Weapon_Slot>Tertiäre Waffe</Third_Weapon_Slot>
   <Additional_Armor_Slot>Weiterer Panzerungs-Slot</Additional_Armor_Slot>
   <Alien_Scanners>Alien Scanner</Alien_Scanners>
   <Scrapping>Verschrottung I</Scrapping>
@@ -245,8 +245,8 @@ Kurs gesetz in the tiefen Weltraum und raus aus dem ZZ-Omega-9 sector. Machen Si
   <Strengthen_Hull_Description>Addiert %amount% zur maximalen und aktuellen Hüllenstärke.
 
 +2 Tragekapazität.</Strengthen_Hull_Description>
-  <Not_enough_upgrade_parts>Nicht genügend Aufrüstungsmodule.</Not_enough_upgrade_parts>
-  <Cannot_upgrade_while_on_a_planet>Kann nicht auf Planeten aufrüsten.</Cannot_upgrade_while_on_a_planet>
+  <Not_enough_upgrade_parts>Nicht genügend Aufwertungsmodule.</Not_enough_upgrade_parts>
+  <Cannot_upgrade_while_on_a_planet>Kann nicht auf Planeten aufwerten.</Cannot_upgrade_while_on_a_planet>
   <You_have_no_inventory>Inventar leer.</You_have_no_inventory>
   <Inventory_is_full>Inventar voll.</Inventory_is_full>
   <This_ship_part_has_not_been_identified>Dieses Schiffsteil ist noch nicht identifiziert.</This_ship_part_has_not_been_identified>
@@ -257,14 +257,14 @@ Kurs gesetz in the tiefen Weltraum und raus aus dem ZZ-Omega-9 sector. Machen Si
   <Press_to_unequip>%input% zum entrüsten</Press_to_unequip>
   <Press_to_change>%input% zum wechseln</Press_to_change>
   <Press_to_use>%input% zum benutzen</Press_to_use>
-  <Press_to_upgrade>%input% zum aufrüsten</Press_to_upgrade>
+  <Press_to_upgrade>%input% zum aufwerten</Press_to_upgrade>
   <Throw_this_item_away>Gegenstand wegwerfen?</Throw_this_item_away>
   <Cannot_equip_ship_parts_while_on_a_planet>Kann nicht auf Planeten ausrüsten</Cannot_equip_ship_parts_while_on_a_planet>
   <You_may_identify_this_once_youre_safe_in_space>Kann nicht auf Planeten identifizieren</You_may_identify_this_once_youre_safe_in_space>
-  <Cannot_throw_away_equipped_ship_parts>Kann ausgerüstete Gegenstände nicht wegwerfen</Cannot_throw_away_equipped_ship_parts>
+  <Cannot_throw_away_equipped_ship_parts>Kann Ausgerüstetes nicht wegwerfen</Cannot_throw_away_equipped_ship_parts>
   <You_can_use_Alien_Artifacts_while_on_a_planet_or_in_space>(Artefakte können auf Planeten und im Weltraum benutzt werden.)</You_can_use_Alien_Artifacts_while_on_a_planet_or_in_space>
   <You_can_use_Advanced_Technology_while_on_a_planet_or_in_space>(Fortschrittliche Technologien können auf Planeten und im Weltraum benutzt werden.)</You_can_use_Advanced_Technology_while_on_a_planet_or_in_space>
-  <To_quit_press_A_or_ENTER_now>Zum Beenden ((A)) oder ENTER drücken!.</To_quit_press_A_or_ENTER_now>
+  <To_quit_press_A_or_ENTER_now>Speichern &amp; Beenden ((A)) oder ENTER drücken.</To_quit_press_A_or_ENTER_now>
   <You_have_never_used_this_kind_of_Alien_Artifact_before>Dieses Artefakt wurde niemals zuvor benutzt. Die Effekte die es auf das Raumschiff haben wird sind unbekannt.</You_have_never_used_this_kind_of_Alien_Artifact_before>
   <You_have_never_used_this_kind_of_Advanced_Technology_before>Diese fortschrittliche Technologie wurde niemals zuvor benutzt. Die Effekte die es auf das Raumschiff haben wird sind unbekannt.</You_have_never_used_this_kind_of_Advanced_Technology_before>
   <Outpost_Destroyed_Rover>Unser Rover wurde zerstört :(</Outpost_Destroyed_Rover>
@@ -313,12 +313,12 @@ Kurs gesetz in the tiefen Weltraum und raus aus dem ZZ-Omega-9 sector. Machen Si
     <string>Verringert die einwirkende Entropie eines zufälligen ausgerüsteten Gegenstandes. (Das ist gut!)</string>
     <string>Stärkt einen zufälligen geschwächten Ausrüstungsgegenstand.</string>
     <string>Erhöht Permanent die Stärke aller Panzerungen um 1. (Selbst der die nicht ausgerüstet sind.)</string>
-    <string>Gewährt ein Aufrüstungsmodul.</string>
+    <string>Gewährt ein Aufwärtungsmodul.</string>
     <string>Teleportiert das Raumschiff an eine zufällige Stelle auf dem Planeten.</string>
     <string>Schädigt die Hülle direkt um 1 Schadenpunkt.</string>
     <string>Erstellt ein zufälliges Objekt.</string>
     <string>Gewährt eine Einheit Treibstoff.</string>
-    <string>Entfernt eine Schiffaufrüstung. Schwächt einen zufälligen Ausrüstungsgegenstand wenn keine Aufrüstung vorhanden.</string>
+    <string>Entfernt eine Schiffsaufwertung. Schädigt einen zufälligen Ausrüstungsgegenstand wenn keine Aufwertungen vorhanden.</string>
     <string>Verlandsamt alle Gegner für 10 Sekunden.</string>
     <string>Restrukturiert das ganze Raumschiff in eine komplett andere Bauform.</string>
     <string>Lässt mehrere Gegner in der Nähe erscheinen.</string>
@@ -339,8 +339,8 @@ Kurs gesetz in the tiefen Weltraum und raus aus dem ZZ-Omega-9 sector. Machen Si
   <Unidentified_Ship_Part>Unidentifizierte %shippart%</Unidentified_Ship_Part>
   <Battery_Use_Description>Beschleunigt das Raumschiff und verdoppelt Schildregerations- und Waffenfeuerrate für 5 Sekunden.</Battery_Use_Description>
   <Battery_Drop_Description>Explodiert nach kurzer Zeit in einem Ring aus 64 Geschossen wenn abgeworfen. Die Hälfte der Geschosse machen einen Schaden von %damage%, der Rest macht EMP Schaden.</Battery_Drop_Description>
-  <Item_has_been_permanently_added_to_the_COLLECTION>%item% wurde permanent der SAMMLUNG hinzugefügt.</Item_has_been_permanently_added_to_the_COLLECTION>
-  <Upgrade_Blueprint_Use_Description>Diese Blaupause enthält eine neue Aufrüstung für das Raumschiff.</Upgrade_Blueprint_Use_Description>
+  <Item_has_been_permanently_added_to_the_COLLECTION>%item% wurde der SAMMLUNG hinzugefügt.</Item_has_been_permanently_added_to_the_COLLECTION>
+  <Upgrade_Blueprint_Use_Description>Diese Blaupause enthält eine neue Aufwertung für das Raumschiff.</Upgrade_Blueprint_Use_Description>
   <Star_Chart_Use_Description>Mehrere Sternensysteme in der Nähe werden aufgedeckt.</Star_Chart_Use_Description>
   <Master_Sword>Master-Schwert</Master_Sword>
   <Angry_Armor>Wütende Panzerung</Angry_Armor>
@@ -740,7 +740,7 @@ Hull: 7000
   <Hello_Captain>Hallo, Kapitän.</Hello_Captain>
   <One_more_thing>Noch etwas:</One_more_thing>
   <We_cant_go_back_now>Wir können nun nicht mehr zurück.</We_cant_go_back_now>
-  <What_do_you_recommend>Was empfielst du??</What_do_you_recommend>
+  <What_do_you_recommend>Was empfiehlst du??</What_do_you_recommend>
   <Sounds_like_a_plan>Hört sich nach einem Plan an.</Sounds_like_a_plan>
   <TUTORIAL_MINIBOSS_APPROACHES>Einen Moment.
 
@@ -776,7 +776,7 @@ Ich erfasse ausserdem Fragmente die als Treibstoff genutzt werden könnten. Wir 
 
 Es dürfte gefährlich sein, aber wenn Sie es zerstören würde könnte man den Treibstoff bergen.
 
-Ich werde es mit den Sensoren verfolgen damit Sie es auf der Minikarte verfolgen können.</MINIBOSS_EXPLANATION>
+Ich werde es mit den Sensoren auf der Minikarte verfolgen.</MINIBOSS_EXPLANATION>
   <WASD_or_the_arrow_keys>WASD oder Pfeiltasten</WASD_or_the_arrow_keys>
   <Z_or_slash>Y oder -</Z_or_slash>
   <the_left_analog_stick>den linken Analogstick</the_left_analog_stick>
@@ -784,11 +784,11 @@ Ich werde es mit den Sensoren verfolgen damit Sie es auf der Minikarte verfolgen
   <hold_X>%x% gedrückt halten</hold_X>
   <action_descriptions>
     <string>Waffe abfeuern</string>
-    <string>Waffe abfeuern (alternativ)</string>
+    <string>Waffe abfeuern (alt)</string>
     <string>Zubehör benutzen</string>
-    <string>Zubehör benutzen (alternativ)</string>
+    <string>Zubehör benutzen (alt)</string>
     <string>Traktorstrahl benutzen</string>
-    <string>Traktorstrahl benutzen (alternativ)</string>
+    <string>Traktorstrahl benutzen (alt)</string>
     <string>Ausrichtung ändern</string>
   </action_descriptions>
 
